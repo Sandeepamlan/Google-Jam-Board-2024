@@ -1,4 +1,4 @@
-## Arcade Hero: Enter the Artifact Registry Maven [GSP151]
+## Arcade Hero: Enter the Artifact Registry Maven [ARC151]
 
 ```
 export REPO_NAME=
