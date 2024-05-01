@@ -1,4 +1,4 @@
-## Arcade Hero: Enter the Artifact Registry Container [GSP150]
+## Arcade Hero: Enter the Artifact Registry Container [ARC150]
 
 ```
 export REPO_NAME=
